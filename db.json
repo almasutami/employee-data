@@ -1,5 +1,5 @@
 {
-  "branchs" : [
+  "branchs": [
     {
       "id": 1,
       "email": "cabang_aceh@gmail.com",
@@ -61,13 +61,13 @@
       "address": "Solo, Jawa Tengah"
     }
   ],
-  "KRYWN-202310-0018":{
+  "KRYWN-202310-0018": {
     "id": "KRYWN-202310-0018",
-    "fullname": "YOUR NAME",
-    "gender": "L",
-    "date_of_birth": "09/10/2023",
+    "fullname": "Almas Ghaisani S. F. Utami",
+    "gender": "P",
+    "date_of_birth": "22/06/1994",
     "position": "Frontend Developer",
-    "avatar": "https://images.unsplash.com/photo-1544502062-f82887f03d1c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3359&q=80",
+    "avatar": "https://i.ibb.co/hDMmmZD/foto-almas.jpg",
     "branch": {
       "id": 2,
       "email": "cabang_bandung@gmail.com",
